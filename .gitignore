@@ -1,0 +1,7 @@
+data/
+artifacts/
+venv/
+*.pkl
+*.npy
+*.pt
+__pycache__/

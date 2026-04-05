@@ -1,0 +1,11 @@
+tfidf:
+  max_features: 5000
+
+bert:
+  model_name: all-MiniLM-L6-v2
+
+hybrid:
+  w_tfidf: 0.5
+  w_bert: 0.5
+  rating_weight: 0.2
+  popularity_weight: 0.1
