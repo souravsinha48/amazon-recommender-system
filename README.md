@@ -53,6 +53,21 @@ amazon-recommender-system/
 
 ---
 
+## Dataset Instructions
+
+Download the required dataset from:
+
+Reviews:
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/categoryFiles/Appliances.json.gz
+
+Metadata:
+https://mcauleylab.ucsd.edu/public_datasets/data/amazon_v2/metaFiles2/meta_Appliances.json.gz
+
+Place files in:
+data/raw/
+
+---
+
 ## How the System Works
 
 ### 1. Preprocessing
